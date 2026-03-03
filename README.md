@@ -25,3 +25,5 @@ Dokumentace bude koncipována jako **Uživatelská příručka**. (?!?!?!)
 * **Koncepty (Concepts):** cca 2 témata
     * Pravidla bezpečného obchodování na TUL.
     * Systém hodnocení a reputace uživatelů.
+
+Zamyslet se nad vhodným médiem - video?
