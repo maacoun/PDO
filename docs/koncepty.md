@@ -5,7 +5,7 @@ TULmarket je mobilní aplikace sloužící jako inzertní portál pro studenty a
 Přístup do aplikace vyžaduje platný TUL účet – registrace přes cizí e-mail není možná.
 
 ![Domovská obrazovka](./figs/home_screen.PNG "Domovská obrazovka TULmarket")
-*Obr.: Domovská obrazovka s hlavní nabídkou kategorií a nedávno přidanými inzeráty*
+<p class="image-caption">Obr.: Domovská obrazovka s hlavní nabídkou kategorií a nedávno přidanými inzeráty</p>
 
 ## Typy inzerátů
 
@@ -39,7 +39,7 @@ Po každém dokončeném obchodu mohou obě strany ohodnotit protistranu – pod
 - **Viditelnost:** Hodnocení jsou veřejně viditelná na profilu každého uživatele.
 
 ![Hodnocení uživatele](./figs/user_ratings_screen.PNG "Systém hodnocení veřejného profilu")
-*Obr.: Ukázka veřejného profilu uživatele s uděleným hodnocením a komentáři*
+<p class="image-caption">Obr.: Ukázka veřejného profilu uživatele s uděleným hodnocením a komentáři</p>
 
 Prodejci s vysokým hodnocením jsou důvěryhodnější – kupující se mohou na základě hodnocení lépe rozhodovat.
 

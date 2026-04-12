@@ -1,7 +1,16 @@
 .vp-doc img {
   max-width: 260px;
   display: block;
-  margin: 1.5rem auto;
+  margin: 1.5rem auto 0.5rem auto;
   border-radius: 12px;
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.image-caption {
+  text-align: center;
+  font-size: 0.85em; /* 14px typically */
+  color: var(--vp-c-text-2); /* Native VitePress light gray color */
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 2.5rem;
 }

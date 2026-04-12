@@ -41,7 +41,7 @@ Při prvním přihlášení se profil vytvoří automaticky. Jméno a e-mail se 
 8. Klepni na **Zveřejnit**.
 
 ![Formulář pro vytvoření inzerátu](./figs/add_offer_screen.PNG "Tvorba nového inzerátu")
-*Obr.: Formulář pro přidání inzerátu s výběrem typu a nahráním fotografií*
+<p class="image-caption">Obr.: Formulář pro přidání inzerátu s výběrem typu a nahráním fotografií</p>
 
 ::: tip Tipy pro lepší inzerát
 Vyfoť zboží na světlém, neutrálním pozadí. Přilož fotografii případného poškození – předejdeš tak nedorozuměním při předání.
@@ -65,7 +65,7 @@ Vyfoť zboží na světlém, neutrálním pozadí. Přilož fotografii případn
 4. Pro rychlé filtrování podle typu použij záložky **Vše / Prodej / Půjčení / Výměna** pod vyhledávacím polem.
 
 ![Obrazovka vyhledávání](./figs/search_screen.PNG "Vyhledávání inzerátů")
-*Obr.: Obrazovka vyhledávání s průběžnými výsledky a přepínáním typu nabídky*
+<p class="image-caption">Obr.: Obrazovka vyhledávání s průběžnými výsledky a přepínáním typu nabídky</p>
 
 ::: tip
 Pokud nenajdeš co hledáš, zkus kratší nebo obecnější výraz.
@@ -86,7 +86,7 @@ Pokud nenajdeš co hledáš, zkus kratší nebo obecnější výraz.
 3. Klepni na **Zobrazit výsledky**.
 
 ![Panel s filtry](./figs/search_filter_screen.PNG "Filtrování a řazení")
-*Obr.: Panel s rozšířenými filtry a možnostmi řazení pro zpřesnění výsledků*
+<p class="image-caption">Obr.: Panel s rozšířenými filtry a možnostmi řazení pro zpřesnění výsledků</p>
 
 Filtry lze libovolně kombinovat. Pro zrušení všech filtrů klepni na **Resetovat**.
 
@@ -105,7 +105,7 @@ Filtry lze libovolně kombinovat. Pro zrušení všech filtrů klepni na **Reset
 5. Klepni na **Odeslat**.
 
 ![Detail inzerátu](./figs/offer_detail_screen.PNG "Náhled inzerátu")
-*Obr.: Detail inzerátu zobrazující fotky, popis a tlačítko pro kontaktování prodejce*
+<p class="image-caption">Obr.: Detail inzerátu zobrazující fotky, popis a tlačítko pro kontaktování prodejce</p>
 
 ### Pokračování v konverzaci
 
@@ -114,7 +114,7 @@ Filtry lze libovolně kombinovat. Pro zrušení všech filtrů klepni na **Reset
 3. Napiš zprávu a klepni na **Odeslat**.
 
 ![Seznam konverzací](./figs/chats_screen.PNG "Zprávy s ostatními uživateli")
-*Obr.: Zobrazení seznamu aktivních konverzací s nabídkami*
+<p class="image-caption">Obr.: Zobrazení seznamu aktivních konverzací s nabídkami</p>
 
 ::: details Řešení problémů
 **Tlačítko Kontaktovat prodejce se nezobrazuje.** Prohlížíš vlastní inzerát – na vlastní inzeráty zprávu poslat nelze.
@@ -135,7 +135,7 @@ Filtry lze libovolně kombinovat. Pro zrušení všech filtrů klepni na **Reset
 3. Kupující potvrdí převzetí v aplikaci – viz níže.
 
 ![Zahájení předání](./figs/seller_initiated_handover_screen.PNG "Iniciace předání zprostředkovaná prodejcem")
-*Obr.: Výzva k potvrzení v chatu, která se zobrazí kupujícímu po iniciaci předání prodejcem*
+<p class="image-caption">Obr.: Výzva k potvrzení v chatu, která se zobrazí kupujícímu po iniciaci předání prodejcem</p>
 
 ### Potvrzení převzetí (kupující)
 
@@ -145,7 +145,7 @@ Filtry lze libovolně kombinovat. Pro zrušení všech filtrů klepni na **Reset
 Obchod je dokončen. V chatu se zobrazí zpráva **Obchod dokončen! Zboží bylo úspěšně předáno.** a tlačítko **Hodnotit** pro ohodnocení protistrany.
 
 ![Dokončení obchodu](./figs/buyer_agreed_to_handover_screen.PNG "Úspěšné převzetí")
-*Obr.: Potvrzení o dokončení obchodu po převzetí a zpřístupnění hodnocení*
+<p class="image-caption">Obr.: Potvrzení o dokončení obchodu po převzetí a zpřístupnění hodnocení</p>
 
 ### Zrušení předání
 
@@ -167,12 +167,12 @@ Předání může zrušit kupující klepnutím na **Odmítnout**, nebo prodáva
 4. Klepni na **Odeslat** vpravo nahoře.
 
 ![Hodnocení uživatele](./figs/rate_user_screen.PNG "Udělení hvězd a komentáře")
-*Obr.: Formulář pro udělení hodnocení a sepsání zkušenosti po úspěšném předání*
+<p class="image-caption">Obr.: Formulář pro udělení hodnocení a sepsání zkušenosti po úspěšném předání</p>
 
 Pro zobrazení hodnocení jiného uživatele klepni na jeho jméno nebo fotografii – zobrazí se profil s průměrným hodnocením a komentáři.
 
 ![Cizí veřejný profil](./figs/user_detail_screen.PNG "Veřejný profil hodnoceného")
-*Obr.: Zobrazení veřejného profilu jiného uživatele s jeho průměrným hodnocením a komentáři*
+<p class="image-caption">Obr.: Zobrazení veřejného profilu jiného uživatele s jeho průměrným hodnocením a komentáři</p>
 
 ---
 
@@ -181,7 +181,7 @@ Pro zobrazení hodnocení jiného uživatele klepni na jeho jméno nebo fotograf
 **Předpoklad:** jsi přihlášen/a a máš alespoň jeden vlastní inzerát.
 
 ![Vlastní profilová stránka](./figs/profile_stats_screen.PNG "Moje inzeráty a statistiky")
-*Obr.: Vlastní profilová stránka s přehledem aktivních a prodaných inzerátů*
+<p class="image-caption">Obr.: Vlastní profilová stránka s přehledem aktivních a prodaných inzerátů</p>
 
 ### Úprava inzerátu
 
