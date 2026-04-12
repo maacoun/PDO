@@ -4,6 +4,9 @@ export default defineConfig({
   title: 'TULmarket',
   description: 'Uživatelská příručka mobilní aplikace TULmarket – univerzitního bazárku TUL.',
   base: '/PDO/',
+  vite: {
+    assetsInclude: ['**/*.PNG']
+  },
   themeConfig: {
     nav: [
       { text: 'Úvod', link: '/' },
