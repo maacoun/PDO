@@ -40,7 +40,8 @@ Při prvním přihlášení se profil vytvoří automaticky. Jméno a e-mail se 
    - **Výměna:** zadej, za co chceš vyměnit, nebo zaškrtni *Otevřen různým nabídkám*
 8. Klepni na **Zveřejnit**.
 
-![Formulář pro vytvoření inzerátu](./figs/add_offer_screen.PNG)
+![Formulář pro vytvoření inzerátu](./figs/add_offer_screen.PNG "Tvorba nového inzerátu")
+*Obr.: Formulář pro přidání inzerátu s výběrem typu a nahráním fotografií*
 
 ::: tip Tipy pro lepší inzerát
 Vyfoť zboží na světlém, neutrálním pozadí. Přilož fotografii případného poškození – předejdeš tak nedorozuměním při předání.
@@ -63,7 +64,8 @@ Vyfoť zboží na světlém, neutrálním pozadí. Přilož fotografii případn
 3. Výsledky se aktualizují průběžně při psaní.
 4. Pro rychlé filtrování podle typu použij záložky **Vše / Prodej / Půjčení / Výměna** pod vyhledávacím polem.
 
-![Obrazovka vyhledávání s výsledky](./figs/search_screen.PNG)
+![Obrazovka vyhledávání](./figs/search_screen.PNG "Vyhledávání inzerátů")
+*Obr.: Obrazovka vyhledávání s průběžnými výsledky a přepínáním typu nabídky*
 
 ::: tip
 Pokud nenajdeš co hledáš, zkus kratší nebo obecnější výraz.
@@ -83,7 +85,8 @@ Pokud nenajdeš co hledáš, zkus kratší nebo obecnější výraz.
 
 3. Klepni na **Zobrazit výsledky**.
 
-![Panel s filtry a řazením](./figs/search_filter_screen.PNG)
+![Panel s filtry](./figs/search_filter_screen.PNG "Filtrování a řazení")
+*Obr.: Panel s rozšířenými filtry a možnostmi řazení pro zpřesnění výsledků*
 
 Filtry lze libovolně kombinovat. Pro zrušení všech filtrů klepni na **Resetovat**.
 
@@ -101,7 +104,8 @@ Filtry lze libovolně kombinovat. Pro zrušení všech filtrů klepni na **Reset
 4. Napiš zprávu – uveď zájem o zboží a navrhni místo a čas předání.
 5. Klepni na **Odeslat**.
 
-![Detail inzerátu s tlačítkem Kontaktovat prodejce](./figs/offer_detail_screen.PNG)
+![Detail inzerátu](./figs/offer_detail_screen.PNG "Náhled inzerátu")
+*Obr.: Detail inzerátu zobrazující fotky, popis a tlačítko pro kontaktování prodejce*
 
 ### Pokračování v konverzaci
 
@@ -109,7 +113,8 @@ Filtry lze libovolně kombinovat. Pro zrušení všech filtrů klepni na **Reset
 2. Vyber konverzaci ze seznamu.
 3. Napiš zprávu a klepni na **Odeslat**.
 
-![Seznam konverzací](./figs/chats_screen.PNG)
+![Seznam konverzací](./figs/chats_screen.PNG "Zprávy s ostatními uživateli")
+*Obr.: Zobrazení seznamu aktivních konverzací s nabídkami*
 
 ::: details Řešení problémů
 **Tlačítko Kontaktovat prodejce se nezobrazuje.** Prohlížíš vlastní inzerát – na vlastní inzeráty zprávu poslat nelze.
@@ -129,16 +134,18 @@ Filtry lze libovolně kombinovat. Pro zrušení všech filtrů klepni na **Reset
 2. Předej zboží osobně kupujícímu.
 3. Kupující potvrdí převzetí v aplikaci – viz níže.
 
+![Zahájení předání](./figs/seller_initiated_handover_screen.PNG "Iniciace předání zprostředkovaná prodejcem")
+*Obr.: Výzva k potvrzení v chatu, která se zobrazí kupujícímu po iniciaci předání prodejcem*
+
 ### Potvrzení převzetí (kupující)
 
 1. V chatu se ti zobrazí výzva **Prodejce zahájil předání**.
 2. Po fyzickém převzetí zboží klepni na **Potvrdit**.
 
-![Výzva kupujícímu k potvrzení převzetí](./figs/seller_initiated_handover_screen.PNG)
-
 Obchod je dokončen. V chatu se zobrazí zpráva **Obchod dokončen! Zboží bylo úspěšně předáno.** a tlačítko **Hodnotit** pro ohodnocení protistrany.
 
-![Potvrzení dokončení obchodu](./figs/buyer_agreed_to_handover_screen.PNG)
+![Dokončení obchodu](./figs/buyer_agreed_to_handover_screen.PNG "Úspěšné převzetí")
+*Obr.: Potvrzení o dokončení obchodu po převzetí a zpřístupnění hodnocení*
 
 ### Zrušení předání
 
@@ -159,17 +166,22 @@ Předání může zrušit kupující klepnutím na **Odmítnout**, nebo prodáva
 3. Volitelně přidej komentář.
 4. Klepni na **Odeslat** vpravo nahoře.
 
-![Obrazovka hodnocení uživatele](./figs/rate_user_screen.PNG)
+![Hodnocení uživatele](./figs/rate_user_screen.PNG "Udělení hvězd a komentáře")
+*Obr.: Formulář pro udělení hodnocení a sepsání zkušenosti po úspěšném předání*
 
 Pro zobrazení hodnocení jiného uživatele klepni na jeho jméno nebo fotografii – zobrazí se profil s průměrným hodnocením a komentáři.
 
-![Profil uživatele se statistikami](./figs/user_detail_screen.PNG)
+![Cizí veřejný profil](./figs/user_detail_screen.PNG "Veřejný profil hodnoceného")
+*Obr.: Zobrazení veřejného profilu jiného uživatele s jeho průměrným hodnocením a komentáři*
 
 ---
 
 ## 7. Úprava a smazání inzerátu
 
 **Předpoklad:** jsi přihlášen/a a máš alespoň jeden vlastní inzerát.
+
+![Vlastní profilová stránka](./figs/profile_stats_screen.PNG "Moje inzeráty a statistiky")
+*Obr.: Vlastní profilová stránka s přehledem aktivních a prodaných inzerátů*
 
 ### Úprava inzerátu
 
@@ -187,8 +199,6 @@ Pro zobrazení hodnocení jiného uživatele klepni na jeho jméno nebo fotograf
 3. Klepni na inzerát, který chceš smazat.
 4. Klepni na ikonu **koše**.
 5. Potvrď smazání.
-
-![Profilová stránka s přehledem](./figs/profile_stats_screen.PNG)
 
 ::: warning Pozor
 Smazaný inzerát nelze obnovit.
