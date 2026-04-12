@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: TULmarket
-  text: Univerzitní bazárek TUL
-  tagline: Prodávej, nakupuj a vyměňuj skripta, vybavení na koleje a studentské potřeby přímo v kampusu.
+  text: Univerzitní inzertní platforma
+  tagline: Mobilní C2C tržiště navržené výhradně pro studenty a zaměstnance Technické univerzity v Liberci. Prodávej, nakupuj a vyměňuj zboží přímo v kampusu.
   actions:
     - theme: brand
       text: Přehled aplikace
