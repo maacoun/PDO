@@ -19,23 +19,22 @@ Při vytváření inzerátu volíš jeden ze tří typů. Typ ovlivňuje, jaké 
 
 ## Stavy inzerátu
 
-Každý inzerát se nachází v jednom ze čtyř stavů.
+Každý inzerát se nachází v jednom ze tří stavů.
 
 | Stav | Význam |
 | --- | --- |
 | **Aktivní** | Inzerát je viditelný, zboží je dostupné |
 | **Čeká na potvrzení** | Prodávající zahájil předání, kupující ještě nepotvrdil převzetí |
-| **Prodáno** | Transakce je dokončena, zboží není dostupné |
-| **Skryté** | Prodávající inzerát dočasně skryl, ve vyhledávání se nezobrazuje |
+| **Dokončeno** | Transakce je uzavřena, zboží není dostupné |
 
-Inzeráty ve stavu **Prodáno** a **Skryté** se ve vyhledávání nezobrazují. Na profilu prodávajícího zůstávají viditelné.
+Inzeráty ve stavu **Čeká na potvrzení** a **Dokončeno** se ve vyhledávání nezobrazují. Na profilu prodávajícího zůstávají viditelné v archivu.
 
 ## Systém hodnocení uživatelů
 
 Po každém dokončeném obchodu mohou obě strany ohodnotit protistranu – podobně jako na běžných trzištích (Vinted, Marketplace).
 
 - **Stupnice:** 1–5 hvězdiček + volitelný textový komentář.
-- **Kdy hodnotit:** Po označení inzerátu jako *Prodáno* se ti zobrazí tlačítko **Hodnotit** přímo v chatu.
+- **Kdy hodnotit:** Po dokončení transakce se v chatu zobrazí tlačítko **Hodnotit**.
 - **Viditelnost:** Hodnocení jsou veřejně viditelná na profilu každého uživatele.
 
 ![Hodnocení uživatele](./figs/user_ratings_screen.PNG "Systém hodnocení veřejného profilu")
