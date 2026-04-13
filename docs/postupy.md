@@ -172,7 +172,7 @@ Předání může zrušit kupující klepnutím na **Odmítnout**, nebo prodáva
 Pro zobrazení hodnocení jiného uživatele klepni na jeho jméno nebo fotografii – zobrazí se profil s průměrným hodnocením a komentáři.
 
 ![Cizí veřejný profil](./figs/user_detail_screen.PNG "Veřejný profil hodnoceného")
-<p class="image-caption">Obr.: Zobrazení veřejného profilu jiného uživatele s jeho průměrným hodnocením a komentáři</p>
+<p class="image-caption">Obr.: Zobrazení veřejného profilu jiného uživatele s jeho průměrným hodnocením</p>
 
 ---
 
