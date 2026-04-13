@@ -47,7 +47,7 @@ Prodejci s vysokým hodnocením jsou důvěryhodnější – kupující se mohou
 TULmarket funguje na principu osobního předání v kampusu. Aby proběhlo vše bez problémů:
 
 - Setkávej se na **veřejných místech** v kampusu – menza, chodby fakult, prostory kolejí.
-- **Nikdy neplacej předem** za zboží, které jsi neviděl/a.
+- **Nikdy neplať předem** za zboží, které jsi neviděl/a.
 - Zboží si **fyzicky prohlédni** před předáním peněz.
 - Komunikuj **výhradně přes aplikaci** – osobní kontaktní údaje si vyměňuj až po prověření profilu protistrany.
 - V případě podezřelého chování využij funkci **Nahlásit uživatele** na profilu uživatele.

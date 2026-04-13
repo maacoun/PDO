@@ -228,5 +228,5 @@ Inzerát se uloží do seznamu oblíbených.
 2. Klepni na ikonu **srdce** vpravo nahoře – inzerát se odebere ze seznamu.
 
 ::: info
-Pokud je inzerát v oblíbených označen jako prodaný, odebere se automaticky.
+Pokud je inzerát v oblíbených ve stavu Dokončeno, odebere se automaticky.
 :::
