@@ -10,19 +10,19 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Úvod', link: '/' },
-      { text: 'Koncepty', link: '/koncepty' },
+      { text: 'Než začneš', link: '/nez-zacnes' },
       { text: 'Postupy', link: '/postupy' },
     ],
 
     sidebar: [
       {
-        text: 'Koncepty',
+        text: 'Než začneš',
         items: [
-          { text: 'Přehled aplikace', link: '/koncepty' },
-          { text: 'Typy inzerátů', link: '/koncepty#typy-inzeratu' },
-          { text: 'Stavy inzerátu', link: '/koncepty#stavy-inzeratu' },
-          { text: 'Systém hodnocení', link: '/koncepty#system-hodnoceni-uzivatelu' },
-          { text: 'Bezpečné obchodování', link: '/koncepty#bezpecne-obchodovani' },
+          { text: 'Přehled aplikace', link: '/nez-zacnes' },
+          { text: 'Typy inzerátů', link: '/nez-zacnes#typy-inzeratu' },
+          { text: 'Stavy inzerátu', link: '/nez-zacnes#stavy-inzeratu' },
+          { text: 'Systém hodnocení', link: '/nez-zacnes#system-hodnoceni-uzivatelu' },
+          { text: 'Bezpečné obchodování', link: '/nez-zacnes#bezpecne-obchodovani' },
         ],
       },
       {

@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Přehled aplikace
-      link: /koncepty
+      link: /nez-zacnes
     - theme: alt
       text: Jak začít
       link: /postupy
