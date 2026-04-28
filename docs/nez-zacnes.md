@@ -9,13 +9,13 @@ Přístup do aplikace vyžaduje platný TUL účet – registrace přes cizí e-
 
 ## Typy inzerátů
 
-Při vytváření inzerátu volíš jeden ze tří typů. Typ ovlivňuje, jaké údaje je potřeba vyplnit.
+Při vytváření inzerátu volíte jeden ze tří typů. Typ ovlivňuje, jaké údaje je potřeba vyplnit.
 
-| Typ | Použití | Co vyplňuješ navíc |
+| Typ | Použití | Co vyplňujete navíc |
 | --- | --- | --- |
 | **Prodej** | Jednorázový převod zboží za peníze | Cena v Kč nebo „Cena dohodou" |
 | **Půjčení** | Dočasné zapůjčení zboží za poplatek | Cena za období, dostupnost do data |
-| **Výměna** | Výměna zboží za jiný předmět bez peněz | Co požaduješ, nebo „Otevřen různým nabídkám" |
+| **Výměna** | Výměna zboží za jiný předmět bez peněz | Co požadujete, nebo „Otevřen různým nabídkám" |
 
 ## Stavy inzerátu
 
@@ -46,8 +46,8 @@ Prodejci s vysokým hodnocením jsou důvěryhodnější – kupující se mohou
 
 TULmarket funguje na principu osobního předání v kampusu. Aby proběhlo vše bez problémů:
 
-- Setkávej se na **veřejných místech** v kampusu – menza, chodby fakult, prostory kolejí.
-- **Nikdy neplať předem** za zboží, které jsi neviděl/a.
-- Zboží si **fyzicky prohlédni** před předáním peněz.
-- Komunikuj **výhradně přes aplikaci** – osobní kontaktní údaje si vyměňuj až po prověření profilu protistrany.
-- V případě podezřelého chování využij funkci **Nahlásit uživatele** na profilu uživatele.
+- Setkávejte se na **veřejných místech** v kampusu – menza, chodby fakult, prostory kolejí.
+- **Nikdy neplaťte předem** za zboží, které jste neviděli.
+- Zboží si **fyzicky prohlédněte** před předáním peněz.
+- Komunikujte **výhradně přes aplikaci** – osobní kontaktní údaje si vyměňujte až po prověření profilu protistrany.
+- V případě podezřelého chování využijte funkci **Nahlásit uživatele** na profilu uživatele.
